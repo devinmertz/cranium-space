@@ -1,0 +1,42 @@
+.logo {
+	height: 65px;
+	width: 100px;
+}
+
+#topLeft {
+	font-size: 20px;
+	text-align: center;
+}
+
+.list-icon {
+	width: 300px;
+}
+
+#form {
+	padding-left: 50px;
+	padding-top: 50px;
+}
+.central {
+	height:auto;
+} 
+
+#abc {
+	align-items: center;
+  justify-content: center;
+
+	padding: 24px;
+	flex: none;
+}
+.card-wide {
+	width: 90%;
+	border-radius: 2px;
+	padding-top: 20px;
+}
+
+#front {
+	width: 100%;
+	border-radius: 25px;
+}
+#ranks {
+	width: 100%;
+}
